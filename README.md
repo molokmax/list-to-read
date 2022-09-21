@@ -22,6 +22,7 @@
 - [ ] C# in Depth. Jon Skeet
 - [ ] CLR via C#. Джефри Рихтер
 - [ ] Асинхронное программирование в C# 5.0. Алекс Дэвис
+- [ ] Управление памятью в .NET для профессионалов. Кокоса Конрад
 
 ## Frontend
 
@@ -36,6 +37,9 @@
 - [x] Джедайские техники. Максим Дорофеев
 - [x] Как пасти котов. Наставление для программистов, руководящих другими программистами. Дж. Ханк Рейнвотер
 - [ ] Чистый Agile. Основы гибкости. Роберт Мартин
+- [ ] Software Engineering at Google. Titus Winters, Tom Manshreck, Hyrum  Wright
+- [ ] Soft Skills: The software developer's life manual. John Z. Sonmez
+- [ ] Practical Monitoring. Effective Strategies for the Real World. Mike Julian
 
 ## Требования к ПО
 - [ ] Разработка требований к программному обеспечению. Практические приемы сбора требований при разработке программных продуктов. Карл Вигерс, Джой Битти
