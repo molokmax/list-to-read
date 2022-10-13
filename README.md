@@ -27,7 +27,7 @@
 - [ ] C# 9.0 in a Nutshell. Joseph Albahari
 - [ ] C# in Depth. Jon Skeet
 - [ ] CLR via C#. Джефри Рихтер
-- [ ] Асинхронное программирование в C# 5.0. Алекс Дэвис
+- [x] Асинхронное программирование в C# 5.0. Алекс Дэвис
 - [ ] Pro Asynchronous Programming with .NET. Richard Blewett
 - [ ] Управление памятью в .NET для профессионалов. Кокоса Конрад
 
