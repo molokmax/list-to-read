@@ -20,6 +20,8 @@
 - [ ] Microservices Patterns: With examples in Java. Chris Richardson
 - [ ] Fundamentals of Software Architecture. Mark Richards, Neal Ford
 - [ ] Hands-On Domain-Driveb Design with .NET Core. Alexey Zimarev
+- [ ] Высоконагруженные приложения. Программирование, масштабирование, поддержка. Мартин Клеппман
+- [ ] Масштабирование приложений. Выращивание сложных систем. Ли Атчисон
 
 ## .NET
 - [ ] C# 9 and .NET 5 - Modern Cross-Platform Development. Mark J. Price
