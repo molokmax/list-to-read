@@ -1,11 +1,6 @@
 # List to read
 В этом репозитории буду размещать список литературы по разным направлениям.
 
-### TODO:
-- [ ] Оформить в виде таблицы
-- [ ] Отметить прочитанные
-- [ ] Дать субъективные оценки
-
 ## Архитектура
 - [ ] Site Reliability Engineering. Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy
 - [ ] Распределенные системы. Паттерны проектирования. Брендан Бёрнс
@@ -25,13 +20,16 @@
 - [x] Чистая архитектура. Роберт Мартин
 
 ## .NET
+- [ ] Blazor in Action. Chris Sainty
 - [ ] C# 9 and .NET 5 - Modern Cross-Platform Development. Mark J. Price
-- [ ] ASP.NET CORE в действии. Эндрю Лок
+- [ ] Безопасность ASP.NET Core. Кристиан Венц
+- [ ] CLR via C#. Джефри Рихтер
 - [ ] Управление памятью в .NET для профессионалов. Кокоса Конрад
+- [ ] ASP.NET CORE в действии. Эндрю Лок
 - [ ] Pro Asynchronous Programming with .NET. Richard Blewett
+- [ ] Entity Framework Core в действии. Смит Д
 - [ ] C# 9.0 in a Nutshell. Joseph Albahari
 - [ ] C# in Depth. Jon Skeet
-- [ ] CLR via C#. Джефри Рихтер
 - [x] Асинхронное программирование в C# 5.0. Алекс Дэвис
 
 ## Frontend
@@ -45,7 +43,6 @@
 - [x] Программист-прагматик. Дейв Томас, Энди Хант
 
 ## Другое
-- [ ] Software Engineering at Google. Titus Winters, Tom Manshreck, Hyrum  Wright
 - [ ] Алгоритмы. Построение и анализ. Томас Кормен и др.
 - [ ] Чистый Agile. Основы гибкости. Роберт Мартин
 - [ ] Soft Skills: The software developer's life manual. John Z. Sonmez
@@ -53,12 +50,15 @@
 - [ ] Pro Git. Scott Chacon, Ben Straub
 - [ ] Git Magic. Ben Lynn
 - [ ] Принципы юнит-тестирования. Владимир Хориков
+- [x] Software Engineering at Google. Titus Winters, Tom Manshreck, Hyrum  Wright
 - [x] Джедайские техники. Максим Дорофеев
 - [x] Как пасти котов. Наставление для программистов, руководящих другими программистами. Дж. Ханк Рейнвотер
 
 ## Требования к ПО
 - [ ] Разработка требований к программному обеспечению. Практические приемы сбора требований при разработке программных продуктов. Карл Вигерс, Джой Битти
 - [ ] Принципы работы с требованиями к программному обеспечению. Универсальный подход. Дин Леффингуэлл, Дон Уидриг
+
+## Нетворкинг
 
 ## Блоги
 - [ ] Microsoft .Net blog - https://devblogs.microsoft.com/dotnet/
@@ -67,3 +67,10 @@
 - [ ] Andrey on .NET - https://andrey.moveax.ru/
 - [ ] Сергей Тепляков - http://sergeyteplyakov.blogspot.com/
 - [ ] Владимир Хориков - https://enterprisecraftsmanship.com/posts/
+
+### TODO:
+- [ ] Оформить в виде таблицы
+- [ ] Добавить ссылки на книги
+- [ ] Отметить прочитанные
+- [ ] Дать субъективные оценки или описание
+- [ ] Разбить страницы по тематикам
