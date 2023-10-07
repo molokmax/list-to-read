@@ -20,8 +20,7 @@
 - [x] Чистая архитектура. Роберт Мартин
 
 ## .NET
-- [ ] Blazor in Action. Chris Sainty
-- [ ] C# 9 and .NET 5 - Modern Cross-Platform Development. Mark J. Price
+- [ ] C# 11 and .NET 7 - Modern Cross-Platform Development. Mark J. Price
 - [ ] Безопасность ASP.NET Core. Кристиан Венц
 - [ ] CLR via C#. Джефри Рихтер
 - [ ] Управление памятью в .NET для профессионалов. Кокоса Конрад
@@ -30,6 +29,7 @@
 - [ ] Entity Framework Core в действии. Смит Д
 - [ ] C# 9.0 in a Nutshell. Joseph Albahari
 - [ ] C# in Depth. Jon Skeet
+- [x] Blazor in Action. Chris Sainty
 - [x] Асинхронное программирование в C# 5.0. Алекс Дэвис
 
 ## Frontend
