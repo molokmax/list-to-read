@@ -23,16 +23,20 @@
 - [ ] Безопасность ASP.NET Core. Кристиан Венц
 - [ ] CLR via C#. Джефри Рихтер
 - [ ] Управление памятью в .NET для профессионалов. Кокоса Конрад
-- [ ] ASP.NET CORE в действии. Эндрю Лок
 - [ ] Pro Asynchronous Programming with .NET. Richard Blewett
 - [ ] Entity Framework Core в действии. Смит Д
 - [ ] C# 9.0 in a Nutshell. Joseph Albahari
 - [ ] C# in Depth. Jon Skeet
+- [ ] Создание веб-API с помощью ASP.NET Core. Валерио Де Санктис
+- [x] ASP.NET CORE в действии. Эндрю Лок
 - [x] C# 11 and .NET 7 - Modern Cross-Platform Development. Mark J. Price
 - [x] Blazor in Action. Chris Sainty
 - [x] Асинхронное программирование в C# 5.0. Алекс Дэвис
 
 ## Frontend
+- [ ] React в действии. Марк Тиленс Томас
+- [ ] Angular в действии. Джереми Уилкен
+- [ ] Vue.js в действии. Эрик Хэнчетт и Бенджамин Листвон
 
 ## Чистый код
 - [ ] Рефакторинг. Улучшение проекта существующего кода. Мартин Фаулер
@@ -45,11 +49,11 @@
 ## Другое
 - [ ] Алгоритмы. Построение и анализ. Томас Кормен и др.
 - [ ] Чистый Agile. Основы гибкости. Роберт Мартин
-- [ ] Soft Skills: The software developer's life manual. John Z. Sonmez
 - [ ] Practical Monitoring. Effective Strategies for the Real World. Mike Julian
 - [ ] Pro Git. Scott Chacon, Ben Straub
 - [ ] Git Magic. Ben Lynn
 - [ ] Принципы юнит-тестирования. Владимир Хориков
+- [x] Soft Skills: The software developer's life manual. John Z. Sonmez
 - [x] Software Engineering at Google. Titus Winters, Tom Manshreck, Hyrum  Wright
 - [x] Джедайские техники. Максим Дорофеев
 - [x] Как пасти котов. Наставление для программистов, руководящих другими программистами. Дж. Ханк Рейнвотер
